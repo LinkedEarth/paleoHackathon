@@ -7,5 +7,5 @@ dependencies:
   - cartopy=0.18.0
   - pip
   - pip:
-    - pyleoclim=0.5.1
+    - pyleoclim
 prefix: /Users/deborahkhider/opt/anaconda3/envs/trial
