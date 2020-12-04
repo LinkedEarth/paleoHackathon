@@ -1,0 +1,11 @@
+name: trial
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy=1.19.2
+  - cartopy=0.18.0
+  - pip
+  - pip:
+    - pyleoclim=0.5.1
+prefix: /Users/deborahkhider/opt/anaconda3/envs/trial
