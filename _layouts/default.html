@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
-
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -21,15 +9,13 @@
   </head>
   <body>
       <header class="page-header" role="banner"> <p align="center">
-<img src="images/ai4earthlogo.png" alt="logo" width="200"/>
+<img src="images/LinkedEarth_Square_Small.png" alt="logo" width="200"/>
 </p> <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{"#ai4earth at @NeurIPS2020 is streaming December 12 PDT" }}</h2>
-         <a href="https://ai4earthscience.github.io/neurips-2020-workshop/" class="btn">Home</a>
-        <a href="https://ai4earthscience.github.io/neurips-2020-workshop/schedule" class="btn">Schedule</a>
-        <a href="https://ai4earthscience.github.io/neurips-2020-workshop/speakers" class="btn">Speaker Info</a>
-        <a href="https://ai4earthscience.github.io/neurips-2020-workshop/faq" class="btn">FAQ</a>
-        <a href="https://ai4earthscience.github.io/neurips-2020-workshop/organizers.html" class="btn">Organizers</a>
-        <a href="https://ai4earthscience.github.io/neurips-2020-workshop/past_events.html" class="btn">Past Events</a>
+      <h2 class="project-tagline">{{"#PaleoHack is streaming February 18th and 19th 2021 9am-4pm PST" }}</h2>
+        <a href="https://linkedearth.github.io/paleoHackathon/" class="btn">Home</a>
+        <a href="https://linkedearth.github.io/paleoHackathon/schedule" class="btn">Schedule</a>
+        <a href="https://linkedearth.github.io/paleoHackathon/faq" class="btn">FAQ</a>
+        <a href="https://linkedearth.github.io/paleoHackathon/organizers" class="btn">Organizers</a>
     </header>
 
 
