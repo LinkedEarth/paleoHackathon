@@ -2,7 +2,7 @@
 
 <img src="images/julien.jpg" alt="Emile-Geay" width="100" />
 
-[Julien Emile-Geay](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1023062), Department of Earth Sciences, University of Southern California
+[Julien Emile-Geay](https://scholar.google.com/citations?hl=en&user=OVti4jEAAAAJ&view_op=list_works&sortby=pubdate), Department of Earth Sciences, University of Southern California
 ---
 <img src="images/deborah.jpg" alt="Khider" width="100" />
 
