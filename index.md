@@ -32,7 +32,7 @@ The hackathon will take place on Zoom. A tentative schedule available [here](htt
 
 ## Participating
 
-* Register  [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
+* Register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
 * The hackathon will be a combination of livestreams, live discussions, and slack conversations.
 * The hackathon is organized around practicum sessions designed to get you started with the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
 * See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for requirements.

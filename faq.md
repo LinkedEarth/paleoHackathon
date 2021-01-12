@@ -10,7 +10,7 @@ A: Familiarity with the [Scientific Python stack](https://barbagroup.github.io/e
 
 ### Q: What are the technical requirements?
 
-A: The computing environment will be a JupyterLab server, and all computations will be cloud-based, so no local installation of the packages and Python will be required. To attend, all you need is a computer, a stable internet connection, and access to Zoom and Slack. 
+A: The computing environment will be a JupyterLab server, and all computations will be cloud-based, so no local installation of the packages and Python will be required. To attend, all you need is a computer, a stable internet connection, and access to Zoom and Slack.
 
 ### Q: How do I register for the workshop?
 
@@ -31,3 +31,11 @@ A: Data analytic superpowers of unmatched proportions in this corner of the gala
 ### Q: What if I love Pyleoclim so much I can't stop using it?
 
 A: that's a good problem to have. If you really love working with LiPD and Pyleoclim, we'll make it easy for you to keep using those tools after the workshop, either on your personal computer (a decent laptop should suffice) or (for a few people at a time) in the cloud.
+
+### Q: OK, I'm sold. What happens next?
+
+A: Please register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**. Once you have, the organizers will review applications and email you back by Feb 13th. If you are selected, you will be asked to:
+- do a little background reading
+- log onto the JupyterHub platform
+- run two introductory notebooks (in "Press play" mode)
+This to make sure you can hit the ground running on Feb 19.
