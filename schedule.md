@@ -1,6 +1,6 @@
 # Overview schedule
 
-Tentative Schedule. Links to talk will be added closer to the hackathon.
+Tentative Schedule. Links to Zoom sessions will be added closer to the hackathon.
 
 ## All times are in PST (Los Angeles time)
 
@@ -12,7 +12,7 @@ Tentative Schedule. Links to talk will be added closer to the hackathon.
 |09:15|10:00|The LiPD data model| N. McKay|
 |10:15|11:00|Overview of methods| J. Emile-Geay|
 |11:15|12:00|Hackathon roadmap| D. Khider|
-|13:00|16:00| Hands-on practicums||
+|13:00|16:00| Hands-on practicums| |
 
 ### Day 2
 
