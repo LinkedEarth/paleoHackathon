@@ -4,9 +4,7 @@
 
 [Julien Emile-Geay](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1023062), Department of Earth Sciences, University of Southern California
 
-<img scr="images/deborah.jpg" alt="Khider" width="100">
 
-[Deborah Khider](https://www.isi.edu/people/dkhider/about), Information Sciences Institute, University of Southern California
 
 <img scr="images/nick.jpeg" alt="McKay" width="100">
 
