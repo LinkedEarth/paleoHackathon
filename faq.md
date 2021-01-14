@@ -38,4 +38,5 @@ A: Please register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th
 - do a little background reading
 - log onto the JupyterHub platform
 - run two introductory notebooks (in "Press play" mode)
-This to make sure you can hit the ground running on Feb 19.
+
+This is to make sure you can hit the ground running on Feb 19.
