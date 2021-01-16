@@ -5,7 +5,7 @@ title: PaleoHack
 ---
 
 ## Virtual Workshop Date: February 18th and 19th, 2021, 9am-4pm Pacific Standard Time (UTC-8)
-PaleoHack aims to bring the power of emerging data standards to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) project, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program (ICER-1541029). In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the  
+PaleoHack aims to bring the power of emerging data standards to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) project, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program (ICER-1541029). In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).  
 
 This hackathon (the first of many) is supported by NSF grant AGS 2002556 from the [P2C2 program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5750) will focus on **Python tools for the analysis of paleoclimate data**, chiefly the  [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
 As such, it assumes a level of _basic_ familiarity with the scientific Python ecosystem, including:
