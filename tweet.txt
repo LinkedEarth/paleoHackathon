@@ -1,0 +1,1 @@
+It is with great excitement that we announce the first paleoclimate hackathon, #paleohack, Feb 19-20.  After years concocting data standards, brewing Python code, and refining tutorials, it is time to share those awesome tools far and wide. Details at: https://linkedearth.github.io/paleoHackathon/
