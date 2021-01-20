@@ -18,7 +18,7 @@ A: Please fill out this [form](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **Februar
 
 ### Q: What will the schedule look like?
 
-A: The hackathon will be held virtually, and take place over two days (Feb 19-20 2021) in the Pacific Standard Time zone (UTC-8) where the instructors are located. The morning lectures will be recorded via Zoom and made available through our Slack channel for delayed viewing. The schedule can be found [here](https://linkedearth.github.io/paleoHackathon/schedule). Schedule is subject to change. If you are participating in this Hackathon, make sure to connect through Slack to stay up-to-date.
+A: The hackathon will be held virtually, and take place over two days (Feb 18-19 2021) in the Pacific Standard Time zone (UTC-8) where the instructors are located. The morning lectures will be recorded via Zoom and made available through our Slack channel for delayed viewing. The schedule can be found [here](https://linkedearth.github.io/paleoHackathon/schedule). Schedule is subject to change. If you are participating in this Hackathon, make sure to connect through Slack to stay up-to-date.
 
 ### Q: What will be expected of me?
 
