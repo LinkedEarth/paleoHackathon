@@ -8,17 +8,18 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
-| 09:00 | 09:15 | Welcome  | J. Emile-Geay |
-|09:15|10:00|The LiPD data model| N. McKay|
-|10:15|11:00|Overview of methods| J. Emile-Geay|
-|11:15|12:00|Hackathon roadmap| D. Khider|
-|13:00|16:00| Hands-on practicums| |
+| 09:00 | 09:30 | Icebreaker  | J. Emile-Geay |
+|09:30|10:00| Linked Paleo Data | N. McKay|
+|10:10|10:40| Pyleoclim overview| D. Khider|
+|10:45|11:30| Hackathon roadmap | J. Emile-Geay |
+|11:30|12:00| Guided practicums | J. Emile-Geay |
+|13:00|16:00| Self-guided practicums| Teams |
 
 ### Day 2
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
-| 09:00 | 12:00 | Hands-on practicums||
-|13:00|14:45|Presentations: take-homes from Pyleoclim| students|
+| 09:00 | 12:00 | Self-guided practicums| Teams|
+|13:00|14:45|Presentations: take-homes from Pyleoclim| Teams|
 |15:00|15:45|Beyond the hub| D. Khider, F. Zhu|
 |15:45|16:00|Concluding remarks| J. Emile-Geay|
