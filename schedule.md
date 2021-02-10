@@ -1,6 +1,6 @@
 # Overview schedule
 
-Tentative Schedule. Links to Zoom sessions will be added closer to the hackathon.
+Tentative Schedule. Links to Zoom sessions will be emailed privately.
 
 ## All times are in PST (Los Angeles time)
 
@@ -19,6 +19,6 @@ Tentative Schedule. Links to Zoom sessions will be added closer to the hackathon
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
 | 09:00 | 12:00 | Hands-on practicums||
-|13:00|14:45|Presentations: take-homes from Pyleoclim| D. Khider|
-|15:00|15:45|Installing Pyleoclim on a local computer| D. Khider, F. Zhu|
+|13:00|14:45|Presentations: take-homes from Pyleoclim| students|
+|15:00|15:45|Beyond the hub| D. Khider, F. Zhu|
 |15:45|16:00|Concluding remarks| J. Emile-Geay|
