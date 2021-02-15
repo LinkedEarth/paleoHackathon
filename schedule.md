@@ -13,7 +13,7 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 |09:45|10:15| Pyleoclim overview| D. Khider|
 |10:30|11:00| AutoTS tutorial   | D. Khider|
 |11:00|11:45| Hackathon roadmap | J. Emile-Geay |
-|12:30|13:00| Lunch Break       |          |
+|12:00|13:00| Lunch Break       |          |
 |13:00|16:00| Self-guided practicums| Teams |
 |16:00|16:30| Social Hour       | (optional)
 
