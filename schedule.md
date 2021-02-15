@@ -8,18 +8,21 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
-| 09:00 | 09:30 | Icebreaker  | J. Emile-Geay |
-|09:30|10:00| Linked Paleo Data | N. McKay|
-|10:10|10:40| Pyleoclim overview| D. Khider|
-|10:45|11:30| Hackathon roadmap | J. Emile-Geay |
-|11:30|12:00| Guided practicums | J. Emile-Geay |
+| 09:00 | 09:15 | Introductions  | J. Emile-Geay |
+|09:15|09:45| Linked Paleo Data | N. McKay|
+|09:45|10:15| Pyleoclim overview| D. Khider|
+|10:30|11:00| AutoTS tutorial   | D. Khider|
+|11:00|11:45| Hackathon roadmap | J. Emile-Geay |
+|12:30|13:00| Lunch Break       |          |
 |13:00|16:00| Self-guided practicums| Teams |
+|16:00|16:30| Social Hour       | (optional)
 
 ### Day 2
 
 | Start | End | Session | Speaker |
 | ---- | ---- | --------- | ------------------- |   
 | 09:00 | 12:00 | Self-guided practicums| Teams|
-|13:00|14:45|Presentations: take-homes from Pyleoclim| Teams|
-|15:00|15:45|Beyond the hub| D. Khider, F. Zhu|
-|15:45|16:00|Concluding remarks| J. Emile-Geay|
+|13:00|14:00|Presentations: take-homes from Pyleoclim| Teams|
+|14:15|15:00|Beyond the hub| D. Khider, F. Zhu|
+|15:00|15:15|Where things are headed| J. Emile-Geay|
+|15:20|16:00|Social Hour            | all   
