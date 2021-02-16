@@ -96,7 +96,7 @@ dependencies:
     - jupyter-core==4.7.0
     - jupyterlab-pygments==0.1.2
     - jupyterlab-widgets==1.0.0
-    - lipd==0.2.8.2
+    - lipd==0.2.8.5
     - llvmlite==0.35.0
     - markupsafe==1.1.1
     - mistune==0.8.4
@@ -155,5 +155,7 @@ dependencies:
     - widgetsnbextension==3.5.1
     - xarray==0.16.2
     - xlrd==2.0.1
+    - climlab
     - pyleoclim
+
 
