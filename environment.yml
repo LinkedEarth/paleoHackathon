@@ -157,5 +157,6 @@ dependencies:
     - xlrd==2.0.1
     - climlab
     - pyleoclim
+    - nbgitpuller==0.9.0
 
 
