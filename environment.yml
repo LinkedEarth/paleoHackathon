@@ -156,7 +156,7 @@ dependencies:
     - xarray==0.16.2
     - xlrd==2.0.1
     - climlab
-    - pyleoclim==0.6.1
+    - pyleoclim==0.6.2
     - nbgitpuller==0.9.0
 
 
