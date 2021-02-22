@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/318272455.svg)](https://zenodo.org/badge/latestdoi/318272455)
+
 # paleoHack
 
 For the hackathon days, please use the link to the JupyterHub provided to the participants.
