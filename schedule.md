@@ -14,10 +14,10 @@ Tentative Schedule. Links to Zoom sessions will be emailed privately.
 |10:15|10:30| Hackathon roadmap | J. Emile-Geay |
 |10:30|10:45| Break             |           |
 |10:45|11:45| Notebook 1+2 practicum  |    Teams |
-|11:45|12:00| Notebook 1+2 rejoinder  |    J. Emile-Geay |
+|11:45|12:00| Notebook 1+2 rejoinder  |  D. Khider  |
 |12:00|13:00| Lunch Break       |          |
 |13:00|15:30| Notebook 3 practicums | Teams |
-|15:30|16:00| Notebook 3 rejoinder | D. Khider |
+|15:30|16:00| Notebook 3 rejoinder |  J. Emile-Geay |
 |16:00|16:30| Social Hour       | (optional)
 
 ### Day 2
