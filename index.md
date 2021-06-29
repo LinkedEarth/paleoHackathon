@@ -35,7 +35,7 @@ The hackathon will take place on Zoom. A tentative schedule available [here](htt
 * The hackathon will be a combination of livestreams, live discussions, and slack conversations.
 * The hackathon is organized around practicum sessions designed to get you started with the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
 * See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for requirements.
-* Register [here](https://forms.gle/rBF6CDnDSUDM138N8) by **Oct 7th, 2021**. Please do explain precisely why you are interested in this training, as we typically receive more applications than we can accept, and want to prioritize the most dedicated applicants.
+* Register [here](https://forms.gle/WZkQ3neasb4eB7zPA) by **Oct 7th, 2021**. Please do explain precisely why you are interested in this training, as we typically receive more applications than we can accept, and want to prioritize the most dedicated applicants.
 
 ## Support
 
