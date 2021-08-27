@@ -14,7 +14,7 @@ A: The computing environment will be a JupyterLab server, and all computations w
 
 ### Q: How do I register for the workshop?
 
-A: Please fill out this [form](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**.
+A: Please fill out this [form](https://forms.gle/WZkQ3neasb4eB7zPA) by **Oct 7th, 2021**.
 
 ### Q: What will the schedule look like?
 
@@ -22,7 +22,7 @@ A: The hackathon will be held virtually, and take place over two days (Feb 18-19
 
 ### Q: What will be expected of me?
 
-A: Two days of your time, your first newborn, $0.00, and a willingness to experiment with new tools (coping with the minor frustrations that such learning necessarily entails). On the last day, you will be expected to show what you managed to get through, and share what you and your team have learned in the process.  (we were joking about the first newborn).
+A: Two days of your time, your first newborn, $0.00, and a willingness to experiment with new tools (coping with the minor frustrations that climbing any learning curve necessarily entails). On the last day, you will be expected to present what you managed to get through with your team, and share what you have learned in the process.  (we were joking about the first newborn).
 
 ### Q: What will I get out of this?
 
@@ -34,9 +34,9 @@ A: that's a good problem to have. If you really love working with LiPD and Pyleo
 
 ### Q: OK, I'm sold. What happens next?
 
-A: Please register [here](https://forms.gle/Kaj44ZVGsCwJLvvB6) by **February 7th, 2021**. Once you have, the organizers will review applications and email you back by Feb 13th. If you are selected, you will be asked to:
+A: Please register [here](https://forms.gle/WZkQ3neasb4eB7zPA) by **Oct 7th, 2021**.. Once you have, the organizers will review applications and email you back by Oct 20th. If you are selected, you will be asked to:
 - do a little background reading
 - log onto the JupyterHub platform
 - run two introductory notebooks (in "Press play" mode)
 
-This is to make sure you can hit the ground running on Feb 19.
+This is to make sure you can hit the ground running on Oct 28.
