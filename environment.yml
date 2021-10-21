@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - appdirs=1.4.4
-  - appnope=0.1.2
   - argon2-cffi=21.1.0
   - async_generator=1.10
   - attrdict=2.0.1
@@ -114,7 +113,6 @@ dependencies:
   - python_abi=3.9
   - pytz=2021.3
   - pyzmq=22.3.0
-  - qt=5.9.7
   - qtconsole=5.1.1
   - qtpy=1.11.2
   - readline=8.1
@@ -143,6 +141,7 @@ dependencies:
   - zlib=1.2.11
   - zstd=1.5.0
   - pip:
+    - appnope=0.1.2
     - bagit==1.8.1
     - charset-normalizer==2.0.7
     - cython==0.29.24
@@ -164,6 +163,7 @@ dependencies:
     - ppft==1.6.6.4
     - pyhht==0.1.0
     - pyleoclim==0.6.3b0
+    - qt=5.9.7
     - scikit-learn==1.0
     - seaborn==0.11.2
     - sip==6.3.1
