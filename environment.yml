@@ -12,4 +12,3 @@ dependencies:
   - pip:
     - setuptools==56.0.0
     - git+https://github.com/LinkedEarth/Pyleoclim_util.git@Development
-    - demjson>2.2.3
