@@ -9,6 +9,4 @@ dependencies:
   - climlab=0.7.12
   - pip
   - pip:
-    - lipd==0.2.8.7
-    - demjson==2.2.4
-    - pyleoclim==0.6.3b0
+    - git+https://github.com/LinkedEarth/Pyleoclim_util.git@Development
