@@ -163,7 +163,6 @@ dependencies:
     - ppft==1.6.6.4
     - pyhht==0.1.0
     - pyleoclim==0.6.3b0
-    - qt=5.9.7
     - scikit-learn==1.0
     - seaborn==0.11.2
     - sip==6.3.1
