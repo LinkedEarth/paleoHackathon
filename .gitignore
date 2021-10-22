@@ -1,3 +1,9 @@
 build
 ./notebooks/.ipynb_checkpoints
 .DS_Store
+notebooks/.ipynb_checkpoints/PaleoHack-nb01-Introduction to Jupyter and Pyleoclim-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/PaleoHack-nb02-Handling LiPD files in Pyleoclim-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/PaleoHack-nb03_EDA-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/PaleoHack-nb04_Forcing&Response-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/PaleoHack-nb07_Model-DataConfrontationInFrequencyDomain-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/PaleoHack-nb08_Model-DataConfrontationInTimeDomain-checkpoint.ipynb
