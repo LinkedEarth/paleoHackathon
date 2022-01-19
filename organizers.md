@@ -12,6 +12,5 @@
 
 [Nick McKay](https://directory.nau.edu/person/npm4), School of Earth and Sustainability, Northern Arizona University
 ---
-<img src="images/feng.jpg" alt="Zhu" width="100" />
 
 Alexander James, Department of Earth Sciences, University of Southern California
