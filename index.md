@@ -8,7 +8,7 @@ title: PaleoHack 3
 PaleoHack aims to bring the power of the Python software ecosystem to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) project, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program (ICER-1541029). In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).  
 
 This hackathon (the third of its kind) is supported by NSF grant AGS 2002556 from the [P2C2 program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5750) and is **geared towards Python beginners** wanting to develop skills in analyzing paleoclimate data with Python. The workshop, which serves as a stepping stone for more advanced Pyleoclim trainings, will introduce students to the scientific Python ecosystem, including:
-* the scientific Python "[stack](https://barbagroup.github.io/essential_skills_RRC/jupyter/1/)", mainly NumPy, SciPy and Matplotlib
+* the scientific Python "[stack](https://barbagroup.github.io/essential_skills_RRC/jupyter/1/)", mainly NumPy, Pandas, SciPy and Matplotlib
 * [Jupyter Notebooks](https://jupyter.org)
 
 The hackathon will feature a mix of introductory lectures (on Zoom), Jupyter-based practicums, and live Slack conversations. Practicums will be conducted in the cloud, alleviating software requirements (see FAQ for details).
