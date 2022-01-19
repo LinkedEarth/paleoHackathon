@@ -34,17 +34,17 @@ A: Data analytic superpowers of unmatched proportions in this corner of the gala
 ### Q: Will PaleoHack make me a Python expert in 2-3 days?
 
 A: That would be nice, but no. If you don't know *any* Python at the start, you will not learn it all here. The more knowledge you have going in, the more you should get out of the event. However, the event is designed for people of all levels to work and learn together about such topics as:
-- Understand the basics of paleo data structures (LiPD, pyleo.Series, etc). 
+- Understand the basics of paleo data structures (LiPD, pyleo.Series, etc).
 - Search and manipulate LiPD objects
 - Understand age model ensembles
 - Process paleo timeseries (binning, interpolation, detrending)
 - Use the package to make publication-quality graphics
 
-There are 3 practicums that cover these notions. You may or may not get through all of them on the first go, but you will learn something any which way! Once you are familiar with these, please re-apply to our intermediate hackathon, which will go into more details with methods. 
+There are 3 practicums that cover these notions. You may or may not get through all of them on the first go, but you will learn something any which way! Once you are familiar with these, please re-apply to our intermediate hackathon, which will go into more details with methods.
 
 ### Q: Can I attend PaleoHack more than once?
 
-A: Yes. Rome wasn't built in a day, and depending on your data science proficiency going in, it make take a couple of rounds to get everything out of PaleoHack. You may take the beginner hackathon as many times as you like or attend our intermediate or advanced events.  
+A: Yes. Rome wasn't built in a day, and depending on your data science proficiency going in, it make take a couple of rounds to get everything out of PaleoHack. You may take the beginner hackathon as many times as you like, or attend our intermediate or advanced events.  
 
 ### Q: What if I love Pyleoclim so much I can't stop using it?
 
@@ -61,8 +61,8 @@ This is to make sure you can hit the ground running on March 9th.
 
 ### Q: My application was not accepted. What did I do wrong?
 A: You did nothing wrong! There are many possible reasons, but in the past the lead causes of rejection have been:
-- __rationale for attending is not sufficiently articulated__: You need to explain why it will advance your scientific career to do this. Vague responses to the questionnaires are often dismissed. Response such as "I want to learn Python" also often lead to a rejection. This is not a Python short course. Python is a tool that you need to apply to your paleoclimate research questions. 
-- __too many people from the same research group__. While we are honored that some PIs are encouraging their entire labs to apply, we strive to balance opportunities between universities/countries/continents. Therefore, we'll only take 1-2 people from the same research group at a time.
-- __minimum requirements not met__: as written earlier, we think the training is pretty good, but it cannot perform miracles. 
+- __rationale for attending is not sufficiently articulated__: You need to explain why it will advance your scientific career to do this. Vague responses to the questionnaires are often dismissed. Response such as "I want to learn Python" also often lead to a rejection. This is not a Python short course. You need to demonstrate how this training will apply to your research in paleoclimatology or related fields.
+- __too many people from the same research group__. While we are honored that some PIs are encouraging their entire labs to apply, we strive to balance opportunities between universities/countries/continents. Therefore, we'll take a maximum of 2 people from the same research group per edition.
+- __minimum requirements not met__: as written earlier, we think the training is pretty good, but it cannot perform miracles. A basic threshold of knowledge about paleoclimate data is an absolute minimum.
 
 If you don't get in on the first try, you likely will on the next round. Persist!
