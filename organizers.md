@@ -14,8 +14,4 @@
 ---
 <img src="images/feng.jpg" alt="Zhu" width="100" />
 
-[Feng Zhu](https://earth.usc.edu/~fengzhu/), Department of Earth Sciences, University of Southern California
----
-<img src="images/alex.png" alt="James" width="100" />
-
 Alexander James, Department of Earth Sciences, University of Southern California
