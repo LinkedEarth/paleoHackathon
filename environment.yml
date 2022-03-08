@@ -13,5 +13,5 @@ dependencies:
   - pip
   - python=3.9.7
   - pip:
-    - pyleoclim==0.7.2
+    - pyleoclim==0.7.3
     - nbgitpuller
