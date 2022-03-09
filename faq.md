@@ -4,6 +4,14 @@
 
 A: This hackathon is open to any researcher engaged in paleoclimate research interested in adding the [Pyleoclim](https://pyleoclim-util.readthedocs.io/en/stable/) package to their scientific toolkit. The computing environment will be a JupyterLab server, and all computations will be cloud-based, so no local installation of the packages and Python will be required. Attendance will be limited to 50 scholars, with priority given to US-based applicants, ECRs and people from groups traditionally underrepresented in the geosciences.
 
+### Q: What is the format?
+
+A: This is a hackathon! In a hackathon, we hack, i.e. we re-use existing code to make it do our bidding. There will be short introductory lectures to get things started at the beginning of the day, but for the most part the learning is in **your** hands: you will learn at your own pace through [notebook](https://jupyter.org)-based practicums, working with teammates in similar timezones to get through a range of exercises, depending on your inclination and level.
+
+### Q: Why are there so few lectures?
+
+When you learned how to walk you did it through trial and error, and lots of practice ; coding is no different. You can take millions of hours of lectures and not know how to write a single line of code, so at some point you need to take a plunge. It sounds scary at first but we swear, the water is fine, and the beauty of Python is that you can get going in just a few minutes. You;’ll be surprised how much you’ve learned by Friday if you do these exercises!
+
 ### Q: Do I need to know Python to attend this hackathon?
 
 A: You do not need to know any Python for this hackathon. Day 1 will be dedicated to help those with no prior experience to gain basic familiarity with the [Scientific Python stack](https://barbagroup.github.io/essential_skills_RRC/jupyter/1/). Please note that this is not a Python course.
@@ -18,7 +26,7 @@ A: Please fill out this [form](https://forms.gle/MxfsVJhaa25YtiMe7) by **Feb 11t
 
 ### Q: What will the schedule look like?
 
-A: The hackathon will be held virtually, and take place over three days (Feb 9-10) in the Pacific Standard Time zone (UTC-8) where the instructors are located. The first day is aimed at a basic Python introduction. If you already know Python, attendance on that day is optional. The morning lectures will be recorded via Zoom and made available through our Slack channel for delayed viewing. The schedule can be found [here](https://linkedearth.github.io/paleoHackathon/schedule). Schedule is subject to change. If you are participating in this Hackathon, make sure to connect through Slack to stay up-to-date.
+A: The hackathon will be held virtually, and take place over three days (Mar 9-11) in the Pacific Standard Time zone (UTC-8) where the instructors are located. The first day is aimed at a basic Python introduction. If you already know Python, attendance on that day is optional. The morning lectures will be recorded via Zoom and made available through our Slack channel for delayed viewing. The schedule can be found [here](https://linkedearth.github.io/paleoHackathon/schedule). Schedule is subject to change. If you are participating in this Hackathon, make sure to connect through Slack to stay up-to-date.
 
 ### Q: What will be expected of me?
 
