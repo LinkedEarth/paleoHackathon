@@ -39,6 +39,6 @@ Links to Zoom sessions will be emailed privately. Practicum will be conducted as
 |----|----| --------- | ------------------- |   
 |09:00|11:00| Notebook 3 practicum (w/ breaks) | Teams|
 |11:00|11:30| Notebook 3 rejoinder | J. Emile-Geay |
-|11:30|12:30| LinkedEarth: New Generation | JEG + DK|
-|12:30|13:30| GitHub and Fair Data | Teams |
-|13:30|16:00| Work at your own pace   | (optional)
+|11:30|12:00| LinkedEarth: New Generation | JEG + DK|
+|12:00|13:00| GitHub and Fair Data | Teams |
+|13:00|16:00| Work at your own pace   | (optional)
