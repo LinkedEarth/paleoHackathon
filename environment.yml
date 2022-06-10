@@ -14,5 +14,5 @@ dependencies:
   - python=3.9.7
   - libstdcxx-ng=12.1.0
   - pip:
-    - pyleoclim==0.7.3
+    - pyleoclim==0.7.4
     - nbgitpuller
