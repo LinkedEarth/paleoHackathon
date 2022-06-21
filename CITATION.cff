@@ -1,0 +1,20 @@
+cff-version: 0.8.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Khider"
+    given-names: "Deborah"
+    orcid: "https://orcid.org/0000-0001-7501-8430"
+  - family-names: "Emile-Geay"
+    given-names: "Julien"
+    orcid: "https://orcid.org/0000-0001-5920-4751"
+  - family-names: "Zhu"
+    given-names: "Feng"
+    orcid: "https://orcid.org/0000-0002-9969-2953"
+  - family-names: "James"
+    given-names: "Alexander"
+    orcid: "https://orcid.org/0000-0001-8561-3188"
+title: "PaleoHack: building coding capacity in the paleogeosciences"
+version: v3.0
+doi: 10.5281/zenodo.6365841
+date-released: 2022-03-17
+url: "https://github.com/LinkedEarth/paleoHackathon"
