@@ -19,3 +19,9 @@ The _notebook_ directory contains the following tutorials:
 1. Spectral & Wavelet Analysis
 1. Model-data confrontations in the frequency domain
 1. Model-data confrontations in the time domain
+
+The first two notebooks are designed to get your feet wet with Python and Pyleoclim and if you're new to either, we strongly recommend you start there. If you're familiar with Python, skip the first notebook. Notebook 3-8 walk through scientific workflows using Pyleoclim and can be completed in any order. 
+
+Data to run the notebooks are provided in the data folder unless explictily called within the notebooks. Please leave the data folder at the same level as this GitHub repository if downloading on your local machine.
+
+Please report any bugs or feature request in our [issues](https://github.com/LinkedEarth/paleoHackathon/issues).
