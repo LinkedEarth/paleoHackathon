@@ -1,39 +1,33 @@
 ---
 layout: default
-title: PaleoHack 3
+title: PaleoHack 4, Bring Your Own Project
 ---
 ---
 
-## Virtual Workshop Date: March 9-11, 2022, 9am-4pm Pacific Standard Time (UTC-8)
-PaleoHack aims to bring the power of the Python software ecosystem to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) project, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program (ICER-1541029). In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).  
+## June 20-23, 2023, Marina Del Rey, CA
+The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. PaleoHack aims to bring the power of the Python software ecosystem to all paleoclimatologists. PaleoHack builds on the work of the [LinkedEarth](http://linked.earth) and [PaleoCube](https://medium.com/cyberpaleo/announcing-the-next-linkedearth-chapter-paleocube-790778b6ffb0) projects, funded by the US National Science Foundation [EarthCube](http://earthcube.org) program. In particular, it makes use of the [Linked Paleo Data standard](https://lipd.net) and the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/master/).  This workshop aims to introduce 10-15 early-career researchers to cloud-based paleoclimatology, including:
+- advanced timeseries analysis
+- analysis of paleoclimate data syntheses
+- confrontations of paleo observations and model output
+- interfaces with other paleosciences (e.g. paleoecology, paleoceanography, archeology)
 
-This hackathon (the third of its kind) is supported by NSF grant AGS 2002556 from the [P2C2 program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5750) and is **geared towards Python beginners** wanting to develop skills in analyzing paleoclimate data with Python. The workshop, which serves as a stepping stone for more advanced Pyleoclim trainings, will introduce students to the scientific Python ecosystem, including:
-* the scientific Python "[stack](https://barbagroup.github.io/essential_skills_RRC/jupyter/1/)", mainly NumPy, Pandas, SciPy and Matplotlib
-* [Jupyter Notebooks](https://jupyter.org)
+This hackathon will be supported by NSF grant AGS 2002556 from the [P2C2 program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5750) and is **geared towards researchers with prior Python experience** wanting to bring their research to the next level.
 
-The hackathon will feature a mix of introductory lectures (on Zoom), Jupyter-based practicums, and live Slack conversations. Practicums will be conducted in the cloud, alleviating software requirements (see FAQ for details).
-
-By the end of the hackathon, participants will be able to:
-* Master the basics of Python coding (flow control, common data structures).
-* Write reproducible computational narratives within a Jupyter environment.
-* Understand the basics of paleo data structures
-* Manipulate these structures
-* Understand and visualize age model ensembles
-* Process and visualize paleoclimate timeseries (e.g., binning, interpolation, detrending)
-
-## Overview Schedule
-
-The hackathon will take place on Zoom. A tentative schedule is available [here](https://linkedearth.github.io/paleoHackathon/schedule).
+## Format
+This is a "Bring Your Own Project" event: participants are expected to come with a science proposal and done some preliminary work of assembling data and code resources to make it happen. The instructors (Julien Emile-Geay, Deborah Khider, Alexander James, Jordan Landers and Nicholas McKay), as well as your hard work and collaborations, will work to help turn these plans into a reality.
+ The workshop will feature a mix of demos, team-building activities, solo and group coding time, to accelerate your research progress towards a particular science goal (ideally, one or more publications). A particular interest of ours is to foster collaboration between paleoclimate modelers and observationalists, using the LiPD ecosystem and the [LinkedEarth Research Hub](http://linked.earth/research_hub.html).  
 
 ## Participating
+* Register [here](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 12th, 2023**.
+* See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for any question.
+* Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
 
-* The hackathon will be a combination of livestreams, live discussions, and Slack conversations.
-* The hackathon is organized around practicum sessions designed to get you started with the [Pyleoclim package](https://pyleoclim-util.readthedocs.io/en/stable/).
-* See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for requirements.
-* Register [here](https://forms.gle/R6sLLSLc1W8cbPY16) by **Feb 11th, 2022**. We are aware that Python is a popular language and that many people want to learn it. We regret to say that we cannot train everyone on the planet. To fit within our funding mandate, your application needs to make clear that 1) you work in the paleosciences and 2) you intend to use Python/Pyleoclim for your research. 
+## Schedule
+
+Once completed, a schedule will be available [here](https://linkedearth.github.io/paleoHackathon/schedule).
 
 ## Support
 
 The hackathon is free to attend and is supported by the National Science Foundation grant 2002556 (P2C2 program).
 
-Initial funding for the development of Pyleoclim was provided by the National Science Foundation grant ICER-1541029 (EarthCube program). Supplemental funding was provided by JP Morgan Chase & Co. Any views or opinions expressed herein are solely those of the authors listed, and may differ from the views and opinions expressed by JP Morgan Chase & Co. or its affiliates. This material is not a product of the Research Department of J.P. Morgan Securities LLC. This material should not be construed as an individual recommendation of any particular client and is not intended as a recommendation of particular securities, financial instruments or strategies for a particular client. This material does not constitute a solicitation or offer in any jurisdiction.
+Initial funding for the development of Pyleoclim was provided by the National Science Foundation grant ICER-1541029 (EarthCube program), with additional support from NSF grant ICER-2126510 (EarthCube).  Supplemental funding for Pyleoclim/AutoTS was provided by JP Morgan Chase & Co. Any views or opinions expressed herein are solely those of the authors listed, and may differ from the views and opinions expressed by JP Morgan Chase & Co. or its affiliates. This material is not a product of the Research Department of J.P. Morgan Securities LLC. This material should not be construed as an individual recommendation of any particular client and is not intended as a recommendation of particular securities, financial instruments or strategies for a particular client. This material does not constitute a solicitation or offer in any jurisdiction.
