@@ -14,7 +14,7 @@ The geosciences are entering an exciting phase, with open-source research ecosys
 This hackathon will be supported by NSF grant AGS 2002556 from the [P2C2 program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5750) and is **geared towards researchers with prior Python experience** wanting to bring their research to the next level.
 
 ## Format
-This is a "Bring Your Own Project" event: participants are expected to come with a science proposal and done some preliminary work of assembling data and code resources to make it happen. The instructors (Julien Emile-Geay, Deborah Khider, Alexander James, Jordan Landers and Nicholas McKay), as well as your hard work and collaborations, will work to help turn these plans into a reality.
+This is a "Bring Your Own Project" event: participants are expected to bring a science proposal and have done the preliminary work of assembling data and code resources to make it happen. The [facilitators](https://linkedearth.github.io/paleoHackathon/organizers), as well as your hard work and collaborations, will turn these plans into a reality.
  The workshop will feature a mix of demos, team-building activities, solo and group coding time, to accelerate your research progress towards a particular science goal (ideally, one or more publications). A particular interest of ours is to foster collaboration between paleoclimate modelers and observationalists, using the LiPD ecosystem and the [LinkedEarth Research Hub](http://linked.earth/research_hub.html).  
 
 ## Participating
