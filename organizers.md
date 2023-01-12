@@ -15,7 +15,6 @@
 <img src="images/alex.png" alt="Alex" width="100" />
 
 [Alexander James](https://alexkjames.github.io), Department of Earth Sciences, University of Southern California
-
 ---
 <img src="images/jordan.jpg" alt="Jordan" width="100" />
 
