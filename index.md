@@ -18,7 +18,7 @@ This is a "Bring Your Own Project" event: participants are expected to bring a s
  The workshop will feature a mix of demos, team-building activities, solo and group coding time, to accelerate your research progress towards a particular science goal (ideally, one or more publications). A particular interest of ours is to foster collaboration between paleoclimate modelers and observationalists, using the LiPD ecosystem and the [LinkedEarth Research Hub](http://linked.earth/research_hub.html).  
 
 ## Participating
-* Register [here](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 12th, 2023**.
+* Register [here](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 19th, 2023**.
 * See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for any question.
 * Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
 
@@ -28,6 +28,6 @@ Once completed, a schedule will be available [here](https://linkedearth.github.i
 
 ## Support
 
-The hackathon is free to attend and is supported by the National Science Foundation grant 2002556 (P2C2 program).
+The hackathon is free to attend and is supported by the National Science Foundation grant 2002556 (P2C2 program). Participant support is available for US-based applicants. 
 
 Initial funding for the development of Pyleoclim was provided by the National Science Foundation grant ICER-1541029 (EarthCube program), with additional support from NSF grant ICER-2126510 (EarthCube).  Supplemental funding for Pyleoclim/AutoTS was provided by JP Morgan Chase & Co. Any views or opinions expressed herein are solely those of the authors listed, and may differ from the views and opinions expressed by JP Morgan Chase & Co. or its affiliates. This material is not a product of the Research Department of J.P. Morgan Securities LLC. This material should not be construed as an individual recommendation of any particular client and is not intended as a recommendation of particular securities, financial instruments or strategies for a particular client. This material does not constitute a solicitation or offer in any jurisdiction.

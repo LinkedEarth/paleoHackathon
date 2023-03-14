@@ -26,7 +26,7 @@ A: You will be using the [LinkedEarth research hub](http://linked.earth/research
 
 ### Q: How do I register for the workshop?
 
-A: Please fill out this [form](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 12th, 2023**.
+A: Please fill out this [form](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 19th, 2023**.
 
 ### Q: Will I be working alone?
 A: No, this a team-building exercise as much as a coding rite of passage!
