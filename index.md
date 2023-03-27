@@ -18,7 +18,7 @@ This is a "Bring Your Own Project" event: participants are expected to bring a s
  The workshop will feature a mix of demos, team-building activities, solo and group coding time, to accelerate your research progress towards a particular science goal (ideally, one or more publications). A particular interest of ours is to foster collaboration between paleoclimate modelers and observationalists, using the LiPD ecosystem and the [LinkedEarth Research Hub](http://linked.earth/research_hub.html).  
 
 ## Participating
-* Register [here](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 19th, 2023**.
+* Register [here](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 19th, 2023**. - Registration is now closed. 
 * See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for any question.
 * Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
 
