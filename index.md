@@ -20,6 +20,7 @@ This is a "Bring Your Own Project" event: participants are expected to bring a s
 ## Participating
 * Register [here](https://forms.gle/dRaQwz2ozuZVJboG9) by **March 19th, 2023**. - Registration is now closed. 
 * See our [FAQ](https://linkedearth.github.io/paleoHackathon/faq) for any question.
+* See our [logistics](https://linkedearth.github.io/paleoHackathon/marina) page for information about getting to Marina Del Rey, hackathon location and other useful tips. 
 * Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
 
 ## Schedule

@@ -44,7 +44,7 @@ There are plenty of activities in MDR: from just hanging out at Venice Beach, su
 
 We will not be providing any meals (your participant support should cover them). There are many options to eat near ISI, including two shopping malls with several lunch options within a 5min walk from the building. The area across Mindanao has a Ralphs along with other dining options such Chipotle, Mendocino Farms (sandwich and salads), California Pizza Kitchen, a burger place. The other mall on the other side of Lincoln (Marina Square Shopping Mall) also contains dining options. There is a Trader Joe's across the street from the building. 
 
-<img src="images/Map.jpg" alt="Map of ISI"/>
+<img src="images/Map.png" alt="Map of ISI"/>
 
 
 
